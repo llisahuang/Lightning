@@ -25,7 +25,7 @@ void draw()
     startX = endX;
     startY = endY;
   }
-  //clouds
+  //cloud
   fill (#424949);
   noStroke();
   ellipse (30, 27, 140, 60);
